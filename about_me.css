@@ -1,0 +1,90 @@
+.name {
+  color:yellow;
+}
+.name{
+  background-color: lightgreen;
+height:30px;
+margin-left:20px;
+width:150px;
+border:20px groove darkgreen;
+padding:7px;
+margin-bottom: 50px;
+font-size:50;
+}
+
+
+.favorite {
+font-family:Copperplate, Copperplate Gothic Light, fantasy;
+
+color:gold;
+
+}
+
+.nameline {
+text-align: center;
+font-size:40px;
+  color: lightgreen;
+font-family: Impact, Charcoal, sans-serif;
+
+}
+body
+{
+background-image:url(https://i.ytimg.com/vi/scL_bXF7k_Q/maxresdefault.jpg)
+
+
+
+;
+color:#66FF66;
+  ; background-size: 1200px;
+  text-align: center;
+}
+.soccer{
+
+  border:10px solid #0000FF;
+}
+.lax{
+
+  border:10px solid gold;
+}
+.football{
+
+  border:10px solid gold;
+}
+
+div {
+display:inline-block;
+  border:5px solid darkgreen;
+width:108;
+text-align: center;
+font-family:Copperplate, Copperplate Gothic Light, fantasy;
+color:#0000FF;
+}
+div2 {
+display:inline;
+  border:5px solid darkgreen;
+width:100;
+text-align: center;
+font-family:Copperplate, Copperplate Gothic Light, fantasy;
+color:#0000FF;
+}
+p{font-family: Oldtown, fantasy;}
+body{ font-family: oldtown, fantasy;}
+h1{text-transform:uppercase;}
+.liketodo {
+font-family:Copperplate, Copperplate Gothic Light, fantasy;
+
+}
+
+
+}
+@keyframes animatedBackground{
+from {background-position: 0 0;}
+t0{ background-pos
+}
+
+.link
+{
+display:block;
+color:gold;
+
+}
